@@ -1,2 +1,5 @@
 this is my chat box
  today i worked development part
+ payment 
+ send money 
+ recive money
